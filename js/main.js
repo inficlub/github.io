@@ -1,7 +1,7 @@
 const app = function () {
-	const API_BASE = 'https://script.google.com/macros/s/AKfycbyP5Rifn7Q05Qcd7CTfm-AOouFHHvUAvCVVuKSfQu-LCqJocP8/exec';
-	const API_KEY = 'abcdef';
-	const CATEGORIES = ['general', 'financial', 'technology', 'marketing'];
+	const API_BASE = 'https://script.google.com/macros/s/AKfycbxGrS6yP_N2yWmUEobXDriSxdKSYye8jeHHI2VJgq_p_pkIKKTS/exec';
+	const API_KEY = 'AIzaSyArFaoO_Y_uIaPsQxEIU0ggLuMryVnaO1s';
+	const CATEGORIES = ['Lessons', 'Workshop', 'Helpful information'];
 
 	const state = {activePage: 1, activeCategory: null};
 	const page = {};
